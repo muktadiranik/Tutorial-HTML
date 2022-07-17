@@ -1,0 +1,85 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+p {
+  font-family: "Charis SIL", serif;
+}
+
+ul {
+  list-style-type: square;
+}
+
+img {
+  border: 10px;
+  border-style: double;
+  border-radius: 5%;
+  height: 200px;
+  width: 400px;
+}
+
+iframe {
+  height: 200px;
+  width: 400px;
+}
+
+#div_1 {
+  background-color: aquamarine;
+  height: 100px;
+  width: 100%;
+}
+
+#div_2 {
+  background-color: cadetblue;
+  height: 100px;
+  width: 100%;
+}
+
+#div_3 {
+  background-color: aliceblue;
+  height: 100px;
+  width: 100%;
+}
+
+table {
+  border: 2px;
+  border-style: solid;
+  height: 50px;
+  width: 50%;
+  border-color: blue;
+  border-collapse: collapse;
+}
+
+th {
+  border: 2px;
+  border-style: solid;
+  border-color: gray;
+  padding: 10px;
+}
+
+td {
+  border: 2px;
+  border-style: solid;
+  border-color: grey;
+  padding: 25px;
+}
+
+tr {
+  text-align: center;
+}
+
+col {
+  background-color: burlywood;
+}
+
+video {
+  height: 200px;
+}
+
+details[open] {
+  background-color: gray;
+}
